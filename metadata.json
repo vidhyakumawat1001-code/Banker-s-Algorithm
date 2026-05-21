@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Banker\u0027s Algorithm Simulator",
+  "description": "A technical dashboard for simulating deadlock detection and avoidance using the Banker\u0027s Algorithm.",
+  "requestFramePermissions": []
+}
